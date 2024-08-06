@@ -1,5 +1,5 @@
 ## About Me
-👋 Hello! My name is **Kalekidan Adugna**. I'm on an exciting journey to transition into the field of **Machine Learning (ML) and Artificial Intelligence (AI) Engineering**. With a background in mechanical engineering and some experience in web development and software engineering, I am passionate about diving deeper into the world of AI/ML to build a future-proof career.
+👋 Hello! My name is **Kalekidan Adugna**. I'm on an exciting journey to transition into the field of **Machine Learning (ML) and Artificial Intelligence (AI) Engineering**. With a background in mechanical engineering and some experience in web development and software engineering, I am passionate about diving deeper into the world of AI/ML to participate in building the future.
 
 ## Current Focus
 📚 I am currently dedicating my time to self-study and practical learning, aiming to master AI/ML engineering. Here's a snapshot of my journey so far and my goals:
